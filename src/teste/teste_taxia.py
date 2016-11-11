@@ -4,7 +4,7 @@ import sys
 import psa
 
 # Iniciar plataforma psa
-psa.iniciar("amb/amb7.das")
+psa.iniciar("amb/amb4.das")
 
 sys.path.append("..")
 
